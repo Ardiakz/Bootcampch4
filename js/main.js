@@ -118,7 +118,7 @@ class RockPaperScissor extends Game{
             (
                 user.selected === RockPaperScissor.choices.PAPER &&
                 comp.selected === RockPaperScissor.choices.ROCK
-            )
+            ) ||
             (
                 user.selected === RockPaperScissor.choices.SCISSOR &&
                 comp.selected === RockPaperScissor.choices.PAPER
