@@ -10,7 +10,7 @@ body{
 #nav-default img{
     height: 60px;
     width: 60px;
-    margin-left: ;
+    margin-left: 20;
 }
 
 #nav-default h2{
@@ -32,12 +32,12 @@ body{
     margin-bottom: 50px;
 }
 
-.img-rps{
+img.ico{
     width: 50%;
     padding: 15px;
 }
 
-.img.reset{
+img.reset{
     width: 80%;
 }
 
